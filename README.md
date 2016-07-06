@@ -17,4 +17,4 @@ to run code:
 python repressilator-2.py
 ```
 
-![Demo](http://https://github.com/rwtourdot/repressilator-population-model/cell-type-movie.gif)
+![Demo](https://github.com/rwtourdot/repressilator-population-model/cell-type-movie.gif)
